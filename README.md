@@ -17,3 +17,7 @@
 ### git log --oneline - показывает коротий лог
 ## Команды от 05.07.2023
 ### git commit --amend --no-edit - дополнение последнего коммита с добавлением нового файла
+### git restore --staged <file> - возврат изменений, staged file становится untracked
+### git reset --hard <commit hash> - откат коммита
+### git restore <file> - откат случайно измененного файла
+###
