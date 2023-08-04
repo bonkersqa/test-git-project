@@ -61,3 +61,7 @@
 ## Команды от 21.07.2023
 ### git merge --no-ff <название ветки> - отключение fast-forward слияния
 ### git config [--global] merge.ff false - полное отключение fast-forward
+
+## Команды от 04.08.2023
+### git push -u origin main - связывает локальную ветку с удаленной
+### git mergetool - инструмент разрешения конфликтов слияния
